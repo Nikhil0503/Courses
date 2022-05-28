@@ -16,4 +16,3 @@ assignment:
   2. TreeMap to display the courses the user needs to take in order to take a course
   that the user wants to take by displaying the scheduled plan of
   required courses in a semester format.
-
